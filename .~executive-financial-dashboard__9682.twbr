@@ -17,7 +17,7 @@
     <_.fcp.VConnDownstreamExtractsWithWarnings.true...VConnDownstreamExtractsWithWarnings />
     <WindowsPersistSimpleIdentifiers />
   </document-format-change-manifest>
-  <repository-location id='executive-financial-dashboard' path='/workbooks' revision='1.4' />
+  <repository-location id='executive-financial-dashboard' path='/workbooks' revision='1.5' />
   <preferences>
     <preference name='ui.encoding.shelf.height' value='24' />
     <preference name='ui.shelf.height' value='26' />
@@ -262,7 +262,7 @@
         </groupfilter>
       </group>
       <extract _.fcp.VConnDownstreamExtractsWithWarnings.true...user-specific='false' count='-1' enabled='true' object-id='' units='records'>
-        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='Data/tableau-temp/#TableauTemp_1kfhb7m0xnnf720zk0fm5172mdfs.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='' username='tableau_internal_user'>
+        <connection access_mode='readonly' author-locale='en_US' class='hyper' dbname='Data/tableau-temp/#TableauTemp_1gwareu10qf8w711pb0tx0xg79f3.hyper' default-settings='hyper' schema='Extract' sslmode='' tablename='Extract' update-time='06/02/2025 06:56:30 PM' username='tableau_internal_user'>
           <relation name='Extract' table='[Extract].[Extract]' type='table' />
           <metadata-records>
             <metadata-record class='column'>
@@ -277,6 +277,7 @@
               <aggregation>Year</aggregation>
               <approx-count>4484</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Store</remote-name>
@@ -291,6 +292,7 @@
               <approx-count>10</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RGB' />
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Region</remote-name>
@@ -305,6 +307,7 @@
               <approx-count>4</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RGB' />
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Product Category</remote-name>
@@ -319,6 +322,7 @@
               <approx-count>7</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RGB' />
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Product Subcategory</remote-name>
@@ -333,6 +337,7 @@
               <approx-count>21</approx-count>
               <contains-null>true</contains-null>
               <collation flag='0' name='LEN_RGB' />
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Units Sold</remote-name>
@@ -346,6 +351,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>99</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Unit Price</remote-name>
@@ -359,6 +365,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>46788</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Marketing Spend</remote-name>
@@ -372,6 +379,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>48125</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Revenue</remote-name>
@@ -385,6 +393,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>94779</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>COGS</remote-name>
@@ -398,6 +407,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>100000</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gross Profit</remote-name>
@@ -411,6 +421,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>100000</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Net Profit</remote-name>
@@ -424,6 +435,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>100000</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
             <metadata-record class='column'>
               <remote-name>Gross Margin</remote-name>
@@ -437,6 +449,7 @@
               <aggregation>Sum</aggregation>
               <approx-count>12572</approx-count>
               <contains-null>true</contains-null>
+              <object-id>[retail_cleaned_final.csv_232AE652062D41AC9EF8EA32C7749ADA]</object-id>
             </metadata-record>
           </metadata-records>
         </connection>
@@ -1218,11 +1231,12 @@
         </zone>
       </zones>
       <devicelayouts>
+        <devicelayout active='true' name='Desktop' />
         <devicelayout auto-generated='true' name='Phone'>
           <size maxheight='1700' minheight='1700' sizing-mode='vscroll' />
           <zones>
-            <zone h='100000' id='42' type-v2='layout-basic' w='100000' x='0' y='0'>
-              <zone h='98518' id='41' param='vert' type-v2='layout-flow' w='99166' x='417' y='741'>
+            <zone h='100000' id='44' type-v2='layout-basic' w='100000' x='0' y='0'>
+              <zone h='98518' id='43' param='vert' type-v2='layout-flow' w='99166' x='417' y='741'>
                 <zone fixed-size='71' h='9907' id='5' is-fixed='true' name='KPI - Revenue' w='17677' x='417' y='741'>
                   <layout-cache cell-count-w='1' minheight='152' type-h='scalable' type-w='cell' />
                   <zone-style>
@@ -1499,7 +1513,7 @@
       </cards>
       <simple-id uuid='{E282066E-180A-4A89-817A-8702302B297C}' />
     </window>
-    <window class='worksheet' name='KPI - Gross Profit'>
+    <window class='worksheet' maximized='true' name='KPI - Gross Profit'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1625,7 +1639,7 @@
       </cards>
       <simple-id uuid='{1068FB9D-A5E0-4417-8C75-9B2A635ACCF7}' />
     </window>
-    <window class='dashboard' maximized='true' name='Dashboard 1'>
+    <window class='dashboard' name='Dashboard 1' tab-color='#4f779a'>
       <viewpoints>
         <viewpoint name='Gross Margin by Product Category '>
           <zoom type='entire-view' />
@@ -1636,7 +1650,9 @@
         <viewpoint name='KPI - Gross Profit'>
           <zoom type='entire-view' />
         </viewpoint>
-        <viewpoint name='KPI - Revenue' />
+        <viewpoint name='KPI - Revenue'>
+          <zoom type='entire-view' />
+        </viewpoint>
         <viewpoint name='KPI - Units Sold  '>
           <zoom type='entire-view' />
         </viewpoint>
@@ -1656,8 +1672,8 @@
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='5' />
-      <device-preview selected='Desktop' visible='true' />
+      <active id='17' />
+      <device-preview visible='true' />
       <simple-id uuid='{BD782333-2F41-47C0-B3AB-CC6416673EED}' />
     </window>
     <window class='worksheet' name='Monthly Revenue Trend'>

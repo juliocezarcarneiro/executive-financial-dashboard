@@ -1,4 +1,5 @@
 # Executive Financial Dashboard
+![Progress](https://progress-bar.dev/60/?title=Overall+Progress&width=400)
 
 ## View the Dashboard
 [Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/julio.carneiro/viz/executive-financial-dashboard/Dashboard1?publish=yes)

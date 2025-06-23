@@ -15,15 +15,9 @@ This Tableau dashboard provides an executive-level view of financial performance
 ## Data Sources
 - Sample financial data 
 
-## How to Use
-1. Use the Year filter to focus on specific time periods
-2. Select different Segments to compare performance across business units
-3. Hover over charts for detailed tooltip information
-4. Click on map regions or bars to highlight specific data points
-
 ## Technical Details
 - Created with Tableau Desktop/Public
-- Dashboard size: 1000x800 (optimized for desktop)
+- Dashboard size optimized for desktop
 - Last updated: June 23, 2025
 
 ## Author

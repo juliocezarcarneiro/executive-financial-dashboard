@@ -1,8 +1,7 @@
 # Executive Financial Dashboard
 
 ### 📊 Project Status  
-<img src="https://geps.dev/progress/60" alt="60% Complete" width="300"/>  
-**✅ Completed:** 3 | **🚧 In Progress:** 4 | **⏳ Not Started:** 3  
+<img src="https://geps.dev/progress/60" alt="60% Complete" width="100"/>  
 
 ## View the Dashboard
 [Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/julio.carneiro/viz/executive-financial-dashboard/Dashboard1?publish=yes)

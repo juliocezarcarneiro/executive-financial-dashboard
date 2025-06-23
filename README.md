@@ -1,50 +1,33 @@
-# 📈 Executive Financial Dashboard – Tableau Project
+# Executive Financial Dashboard
 
-- ▶️ **[View Tableau Dashboard](https://public.tableau.com/)**  
+## View the Dashboard
+[Live Dashboard on Tableau Public](https://public.tableau.com/app/profile/julio.carneiro/viz/executive-financial-dashboard/Dashboard1?publish=yes)
 
-## 🔍 Project Overview
+## Overview
+This Tableau dashboard provides an executive-level view of financial performance metrics including revenue, profit, regional breakdowns, and trend analysis. The interactive visualization allows stakeholders to explore financial data by year and business segment.
 
-This project presents an **interactive Tableau dashboard** built to visualize profit and loss (P&L) performance, track rolling profitability trends, and enable executive-level scenario modeling. It replaces static Excel-based reports, reducing financial close analysis time by **30%**.
+## Features
+- Key financial KPIs 
+- Regional performance analysis 
+- Year-over-year trend visualization
+- Responsive design for different screen sizes
 
----
+## Data Sources
+- Sample financial data 
 
-## 🎯 Objective
+## How to Use
+1. Use the Year filter to focus on specific time periods
+2. Select different Segments to compare performance across business units
+3. Hover over charts for detailed tooltip information
+4. Click on map regions or bars to highlight specific data points
 
-Build a dynamic and user-friendly dashboard that allows:
+## Technical Details
+- Created with Tableau Desktop/Public
+- Dashboard size: 1000x800 (optimized for desktop)
+- Last updated: June 23, 2025
 
-- Visualization of key financial metrics
-- Real-time scenario modeling via parameter inputs
-- Executive-friendly performance summaries
+## Author
+Julio Carneiro
 
-> ✅ **Impact**: Reduced time spent on monthly reporting and improved data-driven decision-making
-
----
-
-## 📦 Key Features
-
-### ✅ Dynamic P&L Statements
-- Filter by **Product Line**, **Region**, or **Fiscal Period**
-- See high-level and detailed views instantly
-
-### 📉 Rolling 12-Month Trends
-- Track **Revenue**, **Gross Margin**, and **EBITDA**
-- View **YoY growth rates** with contextual color cues
-
-### ⚙️ Scenario Modeling
-- Adjust assumptions in real time:
-  - Unit Price
-  - COGS (Cost of Goods Sold)
-  - Sales Volume
-- Built using **Tableau Parameters**
-
-### 📊 Executive KPIs
-- Key metrics highlighted at the top:
-  - **Gross Margin %**
-  - **Net Profit**
-  - **Revenue Growth*
-
-## 🛠️ Tools Used
-
-- **Tableau Desktop 2024**
-- **Microsoft Excel** (data wrangling)
-- **GitHub** (project tracking and documentation)
+## License
+MIT

@@ -1,6 +1,4 @@
-# Executive Financial Dashboard
-
-### 📊 Project Status  
+# Executive Financial Dashboard 
 <img src="https://geps.dev/progress/60" alt="60% Complete" width="100"/>  
 
 ## View the Dashboard
